@@ -1,3 +1,4 @@
+![GitHubCommits](https://user-images.githubusercontent.com/65554439/113892772-59a6f500-9794-11eb-80b6-865e51afae9d.png)
 
 👋 Hi, I’m Vaishali
 --------------------------
